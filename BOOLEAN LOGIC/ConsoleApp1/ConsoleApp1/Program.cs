@@ -21,8 +21,8 @@ namespace ConsoleApp1
                 dui = true;
             bool qual = age > 15 && !dui && tick <= 3;
             Console.WriteLine("Are you qualified?  " + qual);
-
-            Console.Read();
+   
+            Console.Read()
         }
     }
 }
