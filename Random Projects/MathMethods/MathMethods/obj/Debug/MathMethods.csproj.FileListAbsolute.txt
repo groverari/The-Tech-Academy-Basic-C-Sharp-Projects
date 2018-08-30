@@ -1,0 +1,6 @@
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\MathMethods\MathMethods\bin\Debug\MathMethods.exe.config
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\MathMethods\MathMethods\bin\Debug\MathMethods.exe
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\MathMethods\MathMethods\bin\Debug\MathMethods.pdb
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\MathMethods\MathMethods\obj\Debug\MathMethods.csproj.CoreCompileInputs.cache
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\MathMethods\MathMethods\obj\Debug\MathMethods.exe
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\MathMethods\MathMethods\obj\Debug\MathMethods.pdb
