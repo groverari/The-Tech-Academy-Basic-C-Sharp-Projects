@@ -12,6 +12,10 @@ namespace Practice1
         {
             num2 =  num1 / 2;
         }
-       
+        public static int doSomething(int num1)
+        {
+           return num1 / 2;
+        }
+
     }
 }
