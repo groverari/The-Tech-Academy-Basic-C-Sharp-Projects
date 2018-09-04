@@ -10,19 +10,13 @@ namespace Practice1
     {
         static void Main(string[] args)
         {
+            int num2;
+            
             Console.WriteLine("Enter a number");
-            int num2 = Convert.ToInt32(Console.ReadLine());
-            doSomething(num2, out num2);
+            int num1 = Convert.ToInt32(Console.ReadLine());
+            Foo.doSomething(num1, out num2);
             Console.WriteLine(num2);
             Console.ReadLine();
-        }
-        public int doSomething(int num1)
-        {
-            return num1 / 2;
-        }
-        public static void doSomething(int num1, out int num2)
-        {
-            num2 = num1 / 2; 
         }
     }
 }
