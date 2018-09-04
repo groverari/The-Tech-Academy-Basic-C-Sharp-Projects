@@ -1,0 +1,7 @@
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\Recursion\Recursion\bin\Debug\Recursion.exe.config
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\Recursion\Recursion\bin\Debug\Recursion.exe
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\Recursion\Recursion\bin\Debug\Recursion.pdb
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\Recursion\Recursion\obj\Debug\Recursion.csprojAssemblyReference.cache
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\Recursion\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\Recursion\Recursion\obj\Debug\Recursion.exe
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\Recursion\Recursion\obj\Debug\Recursion.pdb
