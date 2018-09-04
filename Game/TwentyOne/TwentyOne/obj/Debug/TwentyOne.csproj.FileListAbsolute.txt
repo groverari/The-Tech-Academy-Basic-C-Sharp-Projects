@@ -1,0 +1,7 @@
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Game\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Game\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Game\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Game\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojAssemblyReference.cache
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Game\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Game\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Game\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
