@@ -10,5 +10,10 @@ namespace Practice2
     {
         public int ID { get; set; }
 
+        public override void sayName()
+        {
+            Console.WriteLine("Name: " + FirstName + " "+ LastName);
+        }
+
     }
 }

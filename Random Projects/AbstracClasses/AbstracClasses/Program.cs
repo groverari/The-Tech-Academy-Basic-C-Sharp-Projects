@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace AbstracClasses
 {
-    public class Card
+    class Program
     {
-        public  string Suit { get; set; }
-        public string Face { get; set; }
-
-
+        static void Main(string[] args)
+        {
+        }
     }
 }
