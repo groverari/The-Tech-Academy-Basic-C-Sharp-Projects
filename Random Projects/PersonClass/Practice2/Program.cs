@@ -10,11 +10,16 @@ namespace Practice2
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee() { FirstName = "Sample", LastName = "Student" };
+            Employee<string> employee = new Employee<string>() { FirstName = "Sample", LastName = "Student" };
+            IQuittable x = new Employee<int>();
             employee.sayName();
-            Console.ReadLine();
+            Employee<int> e1 = new Employee<int>();
 
-            IQuittable joe = new Employee();
+            foreach(int num in e1.things)
+            {
+                Console.WriteLine(num);
+            }
+            Console.ReadLine();
 
         }
     }
