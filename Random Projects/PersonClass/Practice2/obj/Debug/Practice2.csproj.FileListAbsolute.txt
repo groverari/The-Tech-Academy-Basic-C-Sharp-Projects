@@ -1,0 +1,14 @@
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\Practice2\Practice2\bin\Debug\Practice2.exe.config
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\Practice2\Practice2\bin\Debug\Practice2.exe
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\Practice2\Practice2\bin\Debug\Practice2.pdb
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\Practice2\Practice2\obj\Debug\Practice2.csprojAssemblyReference.cache
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\Practice2\Practice2\obj\Debug\Practice2.csproj.CoreCompileInputs.cache
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\Practice2\Practice2\obj\Debug\Practice2.exe
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\Practice2\Practice2\obj\Debug\Practice2.pdb
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\PersonClass\Practice2\bin\Debug\Practice2.exe.config
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\PersonClass\Practice2\bin\Debug\Practice2.exe
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\PersonClass\Practice2\bin\Debug\Practice2.pdb
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\PersonClass\Practice2\obj\Debug\Practice2.csprojAssemblyReference.cache
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\PersonClass\Practice2\obj\Debug\Practice2.csproj.CoreCompileInputs.cache
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\PersonClass\Practice2\obj\Debug\Practice2.exe
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\PersonClass\Practice2\obj\Debug\Practice2.pdb

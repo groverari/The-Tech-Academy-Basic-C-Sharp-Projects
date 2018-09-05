@@ -13,6 +13,9 @@ namespace Practice2
             Employee employee = new Employee() { FirstName = "Sample", LastName = "Student" };
             employee.sayName();
             Console.ReadLine();
+
+            IQuittable joe = new Employee();
+
         }
     }
 }

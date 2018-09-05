@@ -16,8 +16,15 @@ namespace Practice2
         }
         public void Quit()
         {
-
+            Console.WriteLine("I Quit");
         }
-
+        public static bool operator+ (Employee e1, Employee e2)
+        {
+            if(e1.ID == e2.ID)
+            {
+                return true;
+            }
+            return false;
+        }
     }
 }
