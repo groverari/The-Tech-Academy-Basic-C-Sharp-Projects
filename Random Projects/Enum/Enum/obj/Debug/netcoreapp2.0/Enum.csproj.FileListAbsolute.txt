@@ -1,0 +1,11 @@
+C:\Users\TechAcademyStudent\Desktop\Ariesh Tech\Enum\Enum\bin\Debug\netcoreapp2.0\Enum.deps.json
+C:\Users\TechAcademyStudent\Desktop\Ariesh Tech\Enum\Enum\bin\Debug\netcoreapp2.0\Enum.runtimeconfig.json
+C:\Users\TechAcademyStudent\Desktop\Ariesh Tech\Enum\Enum\bin\Debug\netcoreapp2.0\Enum.runtimeconfig.dev.json
+C:\Users\TechAcademyStudent\Desktop\Ariesh Tech\Enum\Enum\bin\Debug\netcoreapp2.0\Enum.dll
+C:\Users\TechAcademyStudent\Desktop\Ariesh Tech\Enum\Enum\bin\Debug\netcoreapp2.0\Enum.pdb
+C:\Users\TechAcademyStudent\Desktop\Ariesh Tech\Enum\Enum\obj\Debug\netcoreapp2.0\Enum.csprojAssemblyReference.cache
+C:\Users\TechAcademyStudent\Desktop\Ariesh Tech\Enum\Enum\obj\Debug\netcoreapp2.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\TechAcademyStudent\Desktop\Ariesh Tech\Enum\Enum\obj\Debug\netcoreapp2.0\Enum.AssemblyInfoInputs.cache
+C:\Users\TechAcademyStudent\Desktop\Ariesh Tech\Enum\Enum\obj\Debug\netcoreapp2.0\Enum.AssemblyInfo.cs
+C:\Users\TechAcademyStudent\Desktop\Ariesh Tech\Enum\Enum\obj\Debug\netcoreapp2.0\Enum.dll
+C:\Users\TechAcademyStudent\Desktop\Ariesh Tech\Enum\Enum\obj\Debug\netcoreapp2.0\Enum.pdb
