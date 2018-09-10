@@ -1,0 +1,11 @@
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Recursion\AddingNaturalNumbers\AddingNaturalNumbers\obj\Debug\netcoreapp2.1\AddingNaturalNumbers.csprojAssemblyReference.cache
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Recursion\AddingNaturalNumbers\AddingNaturalNumbers\obj\Debug\netcoreapp2.1\AddingNaturalNumbers.csproj.CoreCompileInputs.cache
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Recursion\AddingNaturalNumbers\AddingNaturalNumbers\obj\Debug\netcoreapp2.1\AddingNaturalNumbers.AssemblyInfoInputs.cache
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Recursion\AddingNaturalNumbers\AddingNaturalNumbers\obj\Debug\netcoreapp2.1\AddingNaturalNumbers.AssemblyInfo.cs
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Recursion\AddingNaturalNumbers\AddingNaturalNumbers\bin\Debug\netcoreapp2.1\AddingNaturalNumbers.deps.json
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Recursion\AddingNaturalNumbers\AddingNaturalNumbers\bin\Debug\netcoreapp2.1\AddingNaturalNumbers.runtimeconfig.json
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Recursion\AddingNaturalNumbers\AddingNaturalNumbers\bin\Debug\netcoreapp2.1\AddingNaturalNumbers.runtimeconfig.dev.json
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Recursion\AddingNaturalNumbers\AddingNaturalNumbers\bin\Debug\netcoreapp2.1\AddingNaturalNumbers.dll
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Recursion\AddingNaturalNumbers\AddingNaturalNumbers\bin\Debug\netcoreapp2.1\AddingNaturalNumbers.pdb
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Recursion\AddingNaturalNumbers\AddingNaturalNumbers\obj\Debug\netcoreapp2.1\AddingNaturalNumbers.dll
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Recursion\AddingNaturalNumbers\AddingNaturalNumbers\obj\Debug\netcoreapp2.1\AddingNaturalNumbers.pdb

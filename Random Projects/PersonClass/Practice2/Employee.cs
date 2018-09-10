@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Practice2
 {
-    class Employee<T> : Person, IQuittable
+    class Employee : Person, IQuittable
     {
         public int ID { get; set; }
-        public List<T> things { get; set;}
+        public List<string> things { get; set;}
 
         public override void sayName()
         {

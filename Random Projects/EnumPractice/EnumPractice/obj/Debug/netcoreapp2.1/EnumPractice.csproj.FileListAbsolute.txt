@@ -1,0 +1,11 @@
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\EnumPractice\EnumPractice\bin\Debug\netcoreapp2.1\EnumPractice.deps.json
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\EnumPractice\EnumPractice\bin\Debug\netcoreapp2.1\EnumPractice.runtimeconfig.json
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\EnumPractice\EnumPractice\bin\Debug\netcoreapp2.1\EnumPractice.runtimeconfig.dev.json
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\EnumPractice\EnumPractice\bin\Debug\netcoreapp2.1\EnumPractice.dll
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\EnumPractice\EnumPractice\bin\Debug\netcoreapp2.1\EnumPractice.pdb
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\EnumPractice\EnumPractice\obj\Debug\netcoreapp2.1\EnumPractice.csprojAssemblyReference.cache
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\EnumPractice\EnumPractice\obj\Debug\netcoreapp2.1\EnumPractice.csproj.CoreCompileInputs.cache
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\EnumPractice\EnumPractice\obj\Debug\netcoreapp2.1\EnumPractice.AssemblyInfoInputs.cache
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\EnumPractice\EnumPractice\obj\Debug\netcoreapp2.1\EnumPractice.AssemblyInfo.cs
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\EnumPractice\EnumPractice\obj\Debug\netcoreapp2.1\EnumPractice.dll
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\EnumPractice\EnumPractice\obj\Debug\netcoreapp2.1\EnumPractice.pdb

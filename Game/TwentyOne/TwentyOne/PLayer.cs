@@ -13,15 +13,20 @@ namespace TwentyOne
         public string Nmae { get; set; }
         public bool isActivelyPlaying { get; set; }
 
-        public static Game operator+ (Game game, Player player)
+        public static Game operator+ (Game game, Player<T> player)
         {
             game.Players.Add(player);
             return game;
         }
-        public static Game operator-(Game game, Player player)
+        public static Game operator-(Game game, Player<T> player)
         {
             game.Players.Remove(player);
             return game;
         }
+
+    }
+    public enum Suit
+    {
+        Clubs, Diamonds, Hearts, Spades
     }
 }
