@@ -12,23 +12,19 @@ namespace TwentyOne
         public Deck()
         {
             Cards = new List<Card>();
-            List<string> Suits = new List<string>() { "Hearts","Diamonds", "Clubs", "Spades" };
-            List<string> Faces = new List<string>()
+            for (int i = 0; i < 13; i++)
             {
-                "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight",
-                "Nine", "Ten", "Jack", "Queen", "King", "Ace"
-            };
-            foreach(string suit in Suits)
-            {
-                foreach(string face in Faces)
-                {
-                    Card card = new Card();
-                    card.Suit = suit;
-                    card.Face = face;
-                    Cards.Add(card);       
+                for (int j = 0; j < 4; j++) {
+                    Card c1 = new Card();
+                    c1.face = (Face)i;
+                    c1.suit = (Suit)j;
+                    Cards.Add(c1);
+
 
                 }
+
             }
+            
         }
     }
 }
