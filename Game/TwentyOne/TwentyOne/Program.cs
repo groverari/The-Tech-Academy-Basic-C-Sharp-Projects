@@ -11,6 +11,7 @@ namespace TwentyOne
     { 
         static void Main(string[] args)
         {
+            DateTime dateTime = new DateTime(1995, 5, 23, 8, 32, 45);
             string text = File.ReadAllText(@"C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Game\TwentyOne.log.txt");
             Console.WriteLine(text);
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Lets start by telling me your name?");

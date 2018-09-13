@@ -20,6 +20,7 @@ namespace TwentyOne
             string card = string.Format(Deck.Cards.First().ToString() + "\n");
             using (StreamWriter file = new StreamWriter(@"C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Game\TwentyOne\TwentyOne.log.txt", true))
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }
         }
