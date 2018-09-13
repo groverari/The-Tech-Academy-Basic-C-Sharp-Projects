@@ -1,0 +1,11 @@
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\FileIO\FileIO\bin\Debug\netcoreapp2.1\FileIO.deps.json
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\FileIO\FileIO\bin\Debug\netcoreapp2.1\FileIO.runtimeconfig.json
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\FileIO\FileIO\bin\Debug\netcoreapp2.1\FileIO.runtimeconfig.dev.json
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\FileIO\FileIO\bin\Debug\netcoreapp2.1\FileIO.dll
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\FileIO\FileIO\bin\Debug\netcoreapp2.1\FileIO.pdb
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\FileIO\FileIO\obj\Debug\netcoreapp2.1\FileIO.csprojAssemblyReference.cache
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\FileIO\FileIO\obj\Debug\netcoreapp2.1\FileIO.csproj.CoreCompileInputs.cache
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\FileIO\FileIO\obj\Debug\netcoreapp2.1\FileIO.AssemblyInfoInputs.cache
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\FileIO\FileIO\obj\Debug\netcoreapp2.1\FileIO.AssemblyInfo.cs
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\FileIO\FileIO\obj\Debug\netcoreapp2.1\FileIO.dll
+C:\TechAcademy\The-Tech-Academy-Basic-C-Sharp-Projects\Random Projects\FileIO\FileIO\obj\Debug\netcoreapp2.1\FileIO.pdb

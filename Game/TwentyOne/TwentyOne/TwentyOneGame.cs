@@ -20,16 +20,19 @@ namespace TwentyOne
             Dealer.Hand = new List<Card>();
             Dealer.Stay = false;
             Dealer.Deck = new Deck();
+            Dealer.Shuffle(Dealer.Deck);
             Console.WriteLine("Place Your Bet");
             foreach (Player player in Players)
             {
                 int bet = Convert.ToInt32(Console.ReadLine());
                 bool successfullyBet = player.Bet(bet);
-                if (successfullyBet)
+                if (!successfullyBet)
                 {
                     return;
                 }
                 Bets[player] = bet;
+                player.Balance -= bet;
+                     
 
             }
             for (int i = 0; i < 2; i++)
@@ -87,8 +90,13 @@ namespace TwentyOne
                         if (answer == "yes")
                         {
                             player.isActivelyPlaying = true;
+                            return;
                         }
-                        else player.isActivelyPlaying = false;
+                        else
+                        {
+                            player.isActivelyPlaying = false;
+                            return;
+                        }
 
                     }
 

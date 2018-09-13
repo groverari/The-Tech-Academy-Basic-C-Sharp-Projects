@@ -12,7 +12,7 @@ namespace TwentyOne
         public Face face { get; set; }
         public override string ToString()
         {
-            return string.Format("Your cards are {0} of {1}", face, suit);
+            return string.Format("Your card is {0} of {1}", face, suit);
         }
 
     }
@@ -22,7 +22,7 @@ namespace TwentyOne
     }
     public enum Face
     {
-        One, Two, Three, Four, Five, Six, Seven, Eight,
+        Two, Three, Four, Five, Six, Seven, Eight,
         Nine, Ten, Jack, Queen, King, Ace,
     }
 }
