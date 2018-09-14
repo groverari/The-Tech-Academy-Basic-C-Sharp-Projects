@@ -40,7 +40,7 @@ namespace TwentyOne
                 Console.WriteLine("Dealing...");
                 foreach (Player player in Players)
                 {
-                    Console.Write("{0}" + player.Name);
+                    Console.Write("{0}", player.Name);
                     Dealer.Deal(player.Hand);
                     if (i == 1 && TwentyOneRules.CheckForBlackJack(player.Hand))
                     {
@@ -65,6 +65,12 @@ namespace TwentyOne
             {
                 while (!player.stay)
                 {
+                    Console.WriteLine("\n\nDealer's Cards");
+                    foreach(Card card in Dealer.Hand)
+                    {
+                        Console.WriteLine(card.ToString());
+                    }
+                    Console.WriteLine("\n\nYour Cards");
                     foreach(Card card in player.Hand)
                     {
                     Console.WriteLine(card.ToString());
@@ -102,12 +108,20 @@ namespace TwentyOne
 
                 }
             }
+                      
             Dealer.IsBusted = TwentyOneRules.isBusted(Dealer.Hand);
             Dealer.Stay = TwentyOneRules.ShouldStay(Dealer.Hand);
             while(!Dealer.IsBusted && !Dealer.Stay)
             {
                 Console.WriteLine("Dealer is hitting");
                 Dealer.Deal(Dealer.Hand);
+                Console.WriteLine("\n\nDealer's Cards");
+                foreach (Card card in Dealer.Hand)
+                {
+                    Console.WriteLine(card.ToString());
+                }
+             
+
                 Dealer.IsBusted = TwentyOneRules.isBusted(Dealer.Hand);
                 Dealer.Stay = TwentyOneRules.ShouldStay(Dealer.Hand);
 
@@ -135,6 +149,7 @@ namespace TwentyOne
                 {
                     Console.WriteLine("{0} won {1}", player.Name, Bets[player]);
                     player.Balance += Bets[player] * 2;
+                    
 
                 }
                 else
@@ -143,6 +158,7 @@ namespace TwentyOne
                     Dealer.Balance += Bets[player];
 
                 }
+                Console.WriteLine("Your new balance is {0}", player.Balance);
                 Console.WriteLine("Play again?");
                 string answer = Console.ReadLine().ToLower();
                 if(answer == "yes")
