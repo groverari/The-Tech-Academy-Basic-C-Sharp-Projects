@@ -25,6 +25,10 @@ namespace TwentyOne
             foreach (Player player in Players)
             {
                 int bet = Convert.ToInt32(Console.ReadLine());
+                if(bet < 0)
+                {
+                    throw new FraudException("Security Kick This Person out");
+                }
                 bool successfullyBet = player.Bet(bet);
                 if (!successfullyBet)
                 {
